@@ -159,6 +159,10 @@ ENV/
 env.bak/
 venv.bak/
 
+# Local data and OS metadata
+data/
+.DS_Store
+
 # Spyder project settings
 .spyderproject
 .spyproject
